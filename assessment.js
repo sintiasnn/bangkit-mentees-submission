@@ -4,24 +4,26 @@ const original = require('./original.json');
 const comments = require('./comments.json');
 const requestData = require('./request.json');
 
-const token = "";
+const token = "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYjI0MDQzNjMtMzZhMC00NjI4LWJlOWYtMTU2MmE4YTM3MDNlIiwibmFtZSI6Ik5pIFB1dHUgU2ludGlhIFdhdGkiLCJyb2xlcyI6WyJtZW50b3IiXSwicnQiOmZhbHNlLCJleHAiOjE3MDQ5MDMyNjYsImlhdCI6MTcwNDg4ODg2NiwiaXNzIjoiV2FydGVrLUlEIn0.NCTDDunGJbVqQ90G4SiG_ZiLwkw6pMDsmrJxwFyxtxrjOcWOMsjR3MjXBj_dTSkVY3mAZHMZjT2V2Uk3Q7AusA";
 
 const keys = {
   keyInitiative: "Inisiatif, Proaktif, Bertanggung jawab",
   keyEnglish: "Bahasa Inggris",
-  keySoftSkill: "Tugas Soft Skill",
-  keyCareer: "Penyiapan Karier atau startup",
+  keySoftSkill: "Tugas Soft Skil",
+  keyCareer: "Pembelajaran Soft skills dan Penyiapan Karir atau startup",
   keyReview: "Review Materi",
   keyReflection: "Refleksi diri",
-  keyGoogleIT: "Google IT Automation with Python",
-  keyMLProject: "Structuring Machine Learning Projects",
+  keyJs: "Belajar Dasar Pemrograman JavaScript",
+  keyWeb: "Belajar Dasar Pemrograman Web",
   keyCapstone: "Capstone Project / Proyek Akhir",
-  keyMathML: "Mathematics for Machine Learning and Data Science Specialization",
-  keyMLAndrew: "Machine Learning Specialization by Andrew Ng",
-  keyDataAnalytics: "Google Data Analytics",
-  keyTSDataDeploy: "DeepLearning.AI Tensorflow Data and Deployment",
-  keyTSCertificate: "DeepLearning.AI TensorFlow Developer Professional Certificate",
-  keyTFDC: "Simulasi Ujian TensorFlow Developer Certificate"
+  keyBackend: "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud\t",
+  keyCCFound: "Google Cloud Computing Foundations",
+  keyITSupport: "Google IT Support Professional Certificate",
+  keyCELP: "Cloud Engineer Learning Path",
+  keyMGCE: "Menjadi Google Cloud Engineer",
+  keyGCSB: "Google Cloud Skills Boost Quests",
+  keyACE: "ACE Examination Practice",
+  keyACEC: "Simulasi Ujian Associate Cloud Engineer"
 };
 
 async function main() {
@@ -29,7 +31,7 @@ async function main() {
   const requests = [];
 
   original.forEach((original, index) => {
-    let user = users.find(user => user.id_reg_penawaran === original["ID Kampus Merdeka"].toString());
+    let user = users.find(user => user.id_reg_penawaran === original["ID Kegiatan Kampus Merdeka"].toString());
     if (!user) {
       return;
     }

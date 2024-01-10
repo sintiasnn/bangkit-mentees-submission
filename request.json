@@ -3,55 +3,55 @@
   "status": "FINAL_ASSESSMENT_DRAFT",
   "scores": [
     {
-      "module_id": "54a21a51-d776-11ed-97aa-a62b0566759c",
-      "module_name": "Google IT Automation with Python",
+      "module_id": "eefe016c-d37f-11ed-a141-26b32a562963",
+      "module_name": "Belajar Dasar Pemrograman Web",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "79341bed-d776-11ed-97aa-a62b0566759c",
-      "module_name": "Mathematics for Machine Learning and Data Science Specialization",
+      "module_id": "1b4617be-d380-11ed-9c11-3a0e58e1d587",
+      "module_name": "Belajar Dasar Pemrograman JavaScript",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "4cf14d55-d778-11ed-97aa-a62b0566759c",
-      "module_name": "DeepLearning.AI TensorFlow Developer Professional Certificate",
+      "module_id": "5269e020-d380-11ed-a141-26b32a562963",
+      "module_name": "Google Cloud Computing Foundations",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "5d042da9-d778-11ed-97aa-a62b0566759c",
-      "module_name": "Structuring Machine Learning Projects",
+      "module_id": "7796f0e2-d380-11ed-9c11-3a0e58e1d587",
+      "module_name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud\t",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "7a0e146e-d778-11ed-97aa-a62b0566759c",
-      "module_name": "DeepLearning.AI Tensorflow Data and Deployment",
+      "module_id": "f0af48bf-d380-11ed-a141-26b32a562963",
+      "module_name": "Google Cloud Skills Boost Quests",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "8e83e636-d778-11ed-a59b-4e2366ae0099",
-      "module_name": "Simulasi Ujian TensorFlow Developer Certificate",
+      "module_id": "3af37aab-d381-11ed-a141-26b32a562963",
+      "module_name": "Simulasi Ujian Associate Cloud Engineer",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "a26984ee-d778-11ed-97aa-a62b0566759c",
+      "module_id": "abbef463-d382-11ed-a141-26b32a562963",
       "module_name": "Bahasa Inggris",
       "skill_id": "",
       "skill_name": "",
@@ -59,7 +59,7 @@
       "score": 0
     },
     {
-      "module_id": "1b149f65-d77c-11ed-a59b-4e2366ae0099",
+      "module_id": "bd686e34-d382-11ed-9c11-3a0e58e1d587",
       "module_name": "Inisiatif, Proaktif, Bertanggung jawab",
       "skill_id": "",
       "skill_name": "",
@@ -67,7 +67,7 @@
       "score": 0
     },
     {
-      "module_id": "29de4e13-d77c-11ed-a59b-4e2366ae0099",
+      "module_id": "d3c96f0a-d382-11ed-9c11-3a0e58e1d587",
       "module_name": "Review Materi",
       "skill_id": "",
       "skill_name": "",
@@ -75,23 +75,23 @@
       "score": 0
     },
     {
-      "module_id": "40b31e84-d77c-11ed-97aa-a62b0566759c",
-      "module_name": "Penyiapan Karier atau startup",
+      "module_id": "e5bc5cff-d382-11ed-9c11-3a0e58e1d587",
+      "module_name": "Pembelajaran Soft skills dan Penyiapan Karir atau startup",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "5215b4c9-d77c-11ed-97aa-a62b0566759c",
-      "module_name": "Tugas Soft Skill",
+      "module_id": "fea8958c-d382-11ed-a141-26b32a562963",
+      "module_name": "Tugas Soft Skil",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "653afa81-d77c-11ed-a59b-4e2366ae0099",
+      "module_id": "1288391f-d383-11ed-a141-26b32a562963",
       "module_name": "Refleksi diri",
       "skill_id": "",
       "skill_name": "",
@@ -99,7 +99,7 @@
       "score": 0
     },
     {
-      "module_id": "789f458f-d77c-11ed-97aa-a62b0566759c",
+      "module_id": "27a12d2a-d383-11ed-9c11-3a0e58e1d587",
       "module_name": "Capstone Project / Proyek Akhir",
       "skill_id": "",
       "skill_name": "",
@@ -107,16 +107,32 @@
       "score": 0
     },
     {
-      "module_id": "29b1979b-1b19-11ee-9319-fe65e9ae1aa4",
-      "module_name": "Machine Learning Specialization by Andrew Ng",
+      "module_id": "f38c9050-1002-11ee-a054-ea4c0c8f4884",
+      "module_name": "Google IT Support Professional Certificate",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
       "score": 0
     },
     {
-      "module_id": "9e0e55a0-3a7b-11ee-90f3-b20f3a7d99ec",
-      "module_name": "Google Data Analytics",
+      "module_id": "17ac82bc-1003-11ee-b02d-6eaf7db8f2e3",
+      "module_name": "Cloud Engineer Learning Path",
+      "skill_id": "",
+      "skill_name": "",
+      "comment": "",
+      "score": 0
+    },
+    {
+      "module_id": "2e40357d-1003-11ee-b02d-6eaf7db8f2e3",
+      "module_name": "Menjadi Google Cloud Engineer",
+      "skill_id": "",
+      "skill_name": "",
+      "comment": "",
+      "score": 0
+    },
+    {
+      "module_id": "434b68fc-1003-11ee-89a4-1a6e9550b203",
+      "module_name": "ACE Examination Practice",
       "skill_id": "",
       "skill_name": "",
       "comment": "",
