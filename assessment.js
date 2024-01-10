@@ -4,7 +4,7 @@ const original = require('./original.json');
 const comments = require('./comments.json');
 const requestData = require('./request.json');
 
-const token = "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYjI0MDQzNjMtMzZhMC00NjI4LWJlOWYtMTU2MmE4YTM3MDNlIiwibmFtZSI6Ik5pIFB1dHUgU2ludGlhIFdhdGkiLCJyb2xlcyI6WyJtZW50b3IiXSwicnQiOmZhbHNlLCJleHAiOjE3MDQ5MDMyNjYsImlhdCI6MTcwNDg4ODg2NiwiaXNzIjoiV2FydGVrLUlEIn0.NCTDDunGJbVqQ90G4SiG_ZiLwkw6pMDsmrJxwFyxtxrjOcWOMsjR3MjXBj_dTSkVY3mAZHMZjT2V2Uk3Q7AusA";
+const token = "YOUR_TOKEN";
 
 const keys = {
   keyInitiative: "Inisiatif, Proaktif, Bertanggung jawab",
