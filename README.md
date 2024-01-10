@@ -1,4 +1,5 @@
-# Bangkit Mentees Submission
+# Bangkit Final Evaluation for CC Mentor
+
 
 ## Tutorial
 
@@ -49,3 +50,4 @@
 ## Notes
 
 - Make sure to check the course title on the `final evaluation` tab is same with the variable `Course List` on the `comments.json` file. These may cause the comments are not submitted on specific course list.
+- This repo is modified from original repo [here](https://github.com/Aldiwildan77/bangkit-mentees-submission.git) 
