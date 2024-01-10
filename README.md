@@ -9,15 +9,15 @@
 
 ### 2. Data Preparation
 
-1. Open the `Final_Evaluation_Interface_ML-04.xlsx` file
-2. Fill the `Final_Evaluation_Interface_ML-04.xlsx` in `Original` sheet with your data
-3. Replace or reuse the `Machine Learning Comment` sheet with your data
-4. Save the `Machine Learning Comment` sheet as `Machine Learning Comment.csv`
+1. Open the `Final_Evaluation_Interface_CC.xlsx` file
+2. Fill the `Final_Evaluation_Interface_CC.xlsx` in `Original` sheet with your data
+3. Replace or reuse the `Cloud Computing Comment` sheet with your data
+4. Save the `Cloud Computing Comment` sheet as `Cloud Computing Comment.csv` (this file already in this repo)
 5. Save the `Original` sheet as `Original.csv`
 6. Open the converter [here](https://csvjson.com/csv2json)
-7. Upload the `Machine Learning Comment.csv` and `Original.csv` to the converter and convert it to JSON
+7. Upload the `Cloud Computing Comment.csv` and `Original.csv` to the converter and convert it to JSON
 8. Copy the JSON result to each files named `original.json` and `comments.json`
-9. Open `assessment.js` and change the `keys` variable by matching it with the `comments.json`
+9. Open `assessment.js` and change the `keys` variable by matching it with the `comments.json` (the key is already matching with `comments.json`)
 
 ### 3. Get Mentor Token
 
